@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\bin\Debug\netcoreapp3.1\StackedLinkedListProject.exe
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\bin\Debug\netcoreapp3.1\StackedLinkedListProject.deps.json
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\bin\Debug\netcoreapp3.1\StackedLinkedListProject.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\bin\Debug\netcoreapp3.1\StackedLinkedListProject.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\bin\Debug\netcoreapp3.1\StackedLinkedListProject.dll
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\bin\Debug\netcoreapp3.1\StackedLinkedListProject.pdb
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\obj\Debug\netcoreapp3.1\StackedLinkedListProject.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\obj\Debug\netcoreapp3.1\StackedLinkedListProject.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\obj\Debug\netcoreapp3.1\StackedLinkedListProject.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\obj\Debug\netcoreapp3.1\StackedLinkedListProject.dll
+C:\Users\Neil Michaels\source\repos\StackedLinkedListProject\obj\Debug\netcoreapp3.1\StackedLinkedListProject.pdb
